@@ -29,12 +29,17 @@
 
 ---
 
-### Projects 🚀
-- [**Expense Tracker**](https://github.com/NebiyuHaile/Expense-Tracker)  
-  A web app to track daily expenses with data visualization.
-  
-- [**Weather App**](https://github.com/NebiyuHaile/Weather-App)  
-  A simple weather application that provides weather updates using the OpenWeather API.
+### Motto 💡
+> "It does not do to dwell on dreams and forget to live."
+
+---
+
+### Hobbies 🎨
+- 🕹️ Gaming
+- 📚 Reading tech blogs
+- 🎵 Listening to music
+- ✈️ Traveling
+
 
 
 ---
@@ -63,16 +68,5 @@
 
 ---
 
-### Motto 💡
-> "It does not do to dwell on dreams and forget to live."
 
----
-
-### Hobbies 🎨
-- 🕹️ Gaming
-- 📚 Reading tech blogs
-- 🎵 Listening to music
-- ✈️ Traveling
-
----
 
