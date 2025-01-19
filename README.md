@@ -4,7 +4,7 @@
 
 ### CS Student
 
-# Hi 😁, I'm Neboyu Haile 👋
+
 
 <p align="center">
   <a href="https://github.com/YourUsername">
