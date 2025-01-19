@@ -76,8 +76,3 @@
 
 ---
 
-### Profile Views:
-![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&color=green&style=flat-square)
-
-
----
