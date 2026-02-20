@@ -15,6 +15,13 @@
 ---
 
 ### Languages and Tools 🛠️
+**💬 Languages:** Python • JavaScript • TypeScript • Java • SQL  
+**🎨 Frontend:** React • Next.js • HTML • CSS • Bootstrap  
+**🧰 Backend:** Node.js • Express • Django • Flask • REST APIs  
+**🗄️ Databases:** MySQL • SQLite • MongoDB  
+**🤖 AI/ML:** TensorFlow  
+**🧠 Tools:** Git • GitHub • Postman  
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
@@ -24,18 +31,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
 </p>
 
 ---
 
 ### Projects 🚀
-- 🗓️ **Student Government Scheduling System** — Full-stack app for voting + attorney appointment scheduling, with real-time calendar updates.
-- 🧬 **SAFEHR (Genogram + Ecomap)** — Interactive relationship mapping tools built with ReactFlow for nursing simulation workflows.
-- 📊 **EMDC (E-Marketplace / Data-Centric)** — Worked on optimization + deployment-focused engineering to improve performance and reliability.
+- 🗳️ **Student Government Voting + Scheduling System** — Full-stack platform for voting and attorney appointment scheduling with real-time calendar updates.
+- 🧬 **SAFEHR (Genogram + Ecomap)** — Interactive editor with drag-and-drop, relationship lines, notes, and PNG/JSON export.
+- 📊 **EMDC Tabulation System** — Improving performance + reliability via profiling, SQL/API tuning, and safer scoring/reporting workflows.
 
 ---
 
